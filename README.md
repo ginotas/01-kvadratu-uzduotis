@@ -1,0 +1,1 @@
+Uzduotis skirta suprasti positioninga: absolute/relative. 
